@@ -29,6 +29,16 @@ h1 {
     text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
 }
 
+.logo {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .subtitle {
     font-size: 1.2rem;
     margin-bottom: 2rem;
@@ -75,6 +85,11 @@ h1 {
     h1 {
         font-size: 1.5rem;
         margin-bottom: 1rem;
+    }
+
+    .logo {
+        max-width: 200px;
+        margin-bottom: 1.5rem;
     }
 
     .subtitle {
