@@ -1,0 +1,163 @@
+{
+  "exhibit_id": "AB001",
+  "images": [
+    {
+      "url": "img/AB001.png",
+      "position": 0
+    },
+    {
+      "url": "img/CD001.png",
+      "position": 4
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "The Historic Stellenbosch Chair",
+      "sections": [
+        {
+          "type": "text",
+          "content": "This beautifully crafted chair dates back to the late 18th century and represents the finest craftsmanship of the Cape Dutch period. Made from indigenous yellowwood, it showcases the intricate woodworking skills that were prevalent among local artisans of that era."
+        },
+        {
+          "type": "text",
+          "content": "The chair was originally commissioned by one of Stellenbosch's founding families and has been meticulously preserved. Notice the hand-carved details on the armrests and the unique joinery techniques used in its construction."
+        },
+        {
+          "type": "heading",
+          "content": "Historical Significance"
+        },
+        {
+          "type": "text",
+          "content": "During the colonial period, furniture like this was not only functional but also served as a status symbol. The quality of craftsmanship and choice of materials indicated the owner's social standing in the community."
+        },
+        {
+          "type": "text",
+          "content": "This particular piece has survived numerous historical events, including the Anglo-Boer War, and continues to be an important artifact in understanding the domestic life of early Stellenbosch residents."
+        },
+        {
+          "type": "heading",
+          "content": "Conservation"
+        },
+        {
+          "type": "text",
+          "content": "The museum's conservation team has carefully maintained this piece, ensuring that it remains stable while preserving its historical integrity. The original finish has been carefully preserved, giving us insight into the materials and techniques used by craftsmen over 200 years ago."
+        }
+      ],
+      "image_alts": [
+        "Historic Stellenbosch chair from the late 18th century, made from indigenous yellowwood",
+        "Detail view of the hand-carved armrest showing intricate Cape Dutch woodworking"
+      ]
+    },
+    "af": {
+      "title": "Die Historiese Stellenbosch Stoel",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Hierdie pragtig vervaardigde stoel dateer uit die laat 18de eeu en verteenwoordig die fynste vakmanskap van die Kaaps-Hollandse tydperk. Gemaak van inheemse geelhout, wys dit die ingewikkelde houtwerk vaardighede wat onder plaaslike ambagsmanne van daardie era algemeen was."
+        },
+        {
+          "type": "text",
+          "content": "Die stoel is oorspronklik bestel deur een van Stellenbosch se stigtersfamilies en is noukeurig bewaar. Let op die handgesneë besonderhede op die armleunings en die unieke voegwerk tegnieke wat in die konstruksie gebruik is."
+        },
+        {
+          "type": "heading",
+          "content": "Historiese Belangrikheid"
+        },
+        {
+          "type": "text",
+          "content": "Gedurende die koloniale tydperk was meubels soos hierdie nie net funksioneel nie, maar het ook as 'n statussimbool gedien. Die kwaliteit van vakmanskap en keuse van materiale het die eienaar se sosiale status in die gemeenskap aangedui."
+        },
+        {
+          "type": "text",
+          "content": "Hierdie spesifieke stuk het talle historiese gebeure oorleef, insluitend die Anglo-Boereoorlog, en bly steeds 'n belangrike artefak in die begrip van die huishoudelike lewe van vroeë Stellenbosch-inwoners."
+        },
+        {
+          "type": "heading",
+          "content": "Bewaring"
+        },
+        {
+          "type": "text",
+          "content": "Die museum se bewaringspan het hierdie stuk versigtig onderhou, en verseker dat dit stabiel bly terwyl die historiese integriteit behou word. Die oorspronklike afwerking is versigtig bewaar, wat vir ons insig gee in die materiale en tegnieke wat deur ambagsmanne meer as 200 jaar gelede gebruik is."
+        }
+      ],
+      "image_alts": [
+        "Historiese Stellenbosch stoel uit die laat 18de eeu, gemaak van inheemse geelhout",
+        "Detailaansig van die handgesneë armleuning wat ingewikkelde Kaaps-Hollandse houtwerk toon"
+      ]
+    },
+    "xh": {
+      "title": "Isitulo Sembali SaseStellenbosch",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Esi situlo senziwe ngobuchule esikhethekileyo siqala ngenkulungwane ye-18 yaza samela ubuchule obuphezulu bexesha leCape Dutch. Senziwe ngekhuni elidala lelizwe iYellowwood, sibonisa ubuchule obugqibeleleyo bokusebenza umthi ababunabo amagcisa asekuhlaleni ngelo xesha."
+        },
+        {
+          "type": "text",
+          "content": "Esi situlo sayalelwa yenye yeentsapho ezasungula iStellenbosch yaza sagcinwa ngokucophelela. Qaphela iinkcukacha ezikoliweyo ngesandla kwizingalo kunye neendlela zokudibanisa ezizodwa ezisetyenziswe ekwakhiweni kwaso."
+        },
+        {
+          "type": "heading",
+          "content": "Ukubaluleka Kwembali"
+        },
+        {
+          "type": "text",
+          "content": "Ngexesha lobukoloniyali, ifenitshala efana nale yayingeyomsebenzi kuphela kodwa yayisebenza nesithethi sesimo. Umgangatho wobuchule kunye nokukhetha izinto ezisetyenzisiweyo kubonisa imo yomntu emphakathini."
+        },
+        {
+          "type": "text",
+          "content": "Esi situlo sixhomekeke siphila iziganeko ezininzi zembali, kubandakanywa neMfazwe ye-Anglo-Boer, yaye siseyinto ebalulekileyo ekuqondeni ubomi basekhaya babahlali bokuqala baseStellenbosch."
+        },
+        {
+          "type": "heading",
+          "content": "Ugcino"
+        },
+        {
+          "type": "text",
+          "content": "Iqela lolondolozo lwemyuziyam lilondolozile esi situlo ngononophelo, liqinisekisa ukuba sihlala sizinzile ngeli xesha sigcina intsebenziswano yembali. Ukugqitywa kokuqala kugcinwe ngononophelo, kusinceda siqonde izinto ezisetyenzisiweyo kunye neendlela ezisetyenziswe ngamagcisa ngaphezu kweminyaka engama-200 eyadlulayo."
+        }
+      ],
+      "image_alts": [
+        "Isitulo seMbali saseStellenbosch esenziwa ngenkulungwane ye-18, senziwe ngekhuni elidala lelizwe",
+        "Imbonakalo yeenkcukacha zesandla esikojiweyo kwisengalo ebonisa ubuchule obugqibeleleyo bemisebenzi yomthi"
+      ]
+    },
+    "ja": {
+      "title": "歴史的なステレンボッシュの椅子",
+      "sections": [
+        {
+          "type": "text",
+          "content": "この美しく作られた椅子は18世紀後半にさかのぼり、ケープダッチ時代の最高級の職人技を表しています。在来種のイエローウッドで作られており、当時の地元の職人に広く見られた複雑な木工技術を示しています。"
+        },
+        {
+          "type": "text",
+          "content": "この椅子はステレンボッシュの創設家族の一つによって元々注文され、細心の注意を払って保存されてきました。肘掛けの手彫りの細部と、その構造に使用された独特の接合技術に注目してください。"
+        },
+        {
+          "type": "heading",
+          "content": "歴史的重要性"
+        },
+        {
+          "type": "text",
+          "content": "植民地時代、このような家具は機能的であるだけでなく、地位の象徴としても機能しました。職人技の質と材料の選択は、コミュニティにおける所有者の社会的地位を示していました。"
+        },
+        {
+          "type": "text",
+          "content": "この特定の作品は、アングロ・ボーア戦争を含む多数の歴史的出来事を生き延び、初期のステレンボッシュ住民の家庭生活を理解する上で重要な遺物であり続けています。"
+        },
+        {
+          "type": "heading",
+          "content": "保存"
+        },
+        {
+          "type": "text",
+          "content": "博物館の保存チームは、この作品を慎重に維持し、歴史的完全性を保ちながら安定した状態を保っています。元の仕上げは慎重に保存されており、200年以上前の職人が使用した材料と技術についての洞察を与えてくれます。"
+        }
+      ],
+      "image_alts": [
+        "18世紀後半の歴史的なステレンボッシュの椅子、在来種のイエローウッドで作られています",
+        "複雑なケープダッチの木工を示す手彫りの肘掛けの詳細図"
+      ]
+    }
+  }
+}

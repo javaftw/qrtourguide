@@ -1,0 +1,91 @@
+{
+  "exhibit_id": "XX000",
+  "images": [
+    {
+      "url": "images/XX000-image1.jpg",
+      "position": 0
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Exhibit Title in English",
+      "sections": [
+        {
+          "type": "text",
+          "content": "First paragraph of content..."
+        },
+        {
+          "type": "heading",
+          "content": "Section Heading"
+        },
+        {
+          "type": "text",
+          "content": "More content..."
+        }
+      ],
+      "image_alts": [
+        "Description of image in English"
+      ]
+    },
+    "af": {
+      "title": "Uitstalling Titel in Afrikaans",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Eerste paragraaf van inhoud..."
+        },
+        {
+          "type": "heading",
+          "content": "Afdeling Opskrif"
+        },
+        {
+          "type": "text",
+          "content": "Meer inhoud..."
+        }
+      ],
+      "image_alts": [
+        "Beskrywing van beeld in Afrikaans"
+      ]
+    },
+    "xh": {
+      "title": "Isihloko Somboniso ngesiXhosa",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Umhlathi wokuqala womxholo..."
+        },
+        {
+          "type": "heading",
+          "content": "Isihloko Secandelo"
+        },
+        {
+          "type": "text",
+          "content": "Umxholo ongakumbi..."
+        }
+      ],
+      "image_alts": [
+        "Inkcazo yomfanekiso ngesiXhosa"
+      ]
+    },
+    "ja": {
+      "title": "日本語の展示タイトル",
+      "sections": [
+        {
+          "type": "text",
+          "content": "コンテンツの最初の段落..."
+        },
+        {
+          "type": "heading",
+          "content": "セクション見出し"
+        },
+        {
+          "type": "text",
+          "content": "さらなるコンテンツ..."
+        }
+      ],
+      "image_alts": [
+        "日本語での画像の説明"
+      ]
+    }
+  }
+}

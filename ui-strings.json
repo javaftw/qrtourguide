@@ -1,0 +1,58 @@
+{
+  "en": {
+    "scan_instruction": "Please scan an exhibit code",
+    "scan_status": "Position the QR code within the camera view",
+    "scan_next": "SCAN NEXT CODE",
+    "back": "Back",
+    "error_camera": "Unable to access camera. Please ensure camera permissions are granted.",
+    "error_invalid_qr": "Invalid QR code format. Expected format: XX000",
+    "error_exhibit_not_found": "Exhibit Not Found",
+    "error_exhibit_message": "The exhibit code \"{code}\" could not be found.",
+    "error_contact": "Please scan another code or contact museum staff for assistance.",
+    "error_language_not_available": "Language Not Available",
+    "error_language_message": "This exhibit is not available in the selected language.",
+    "loading": "Loading exhibit information"
+  },
+  "af": {
+    "scan_instruction": "Skandeer asseblief 'n uitstalling kode",
+    "scan_status": "Posisioneer die QR-kode binne die kamera-aansig",
+    "scan_next": "SKANDEER VOLGENDE KODE",
+    "back": "Terug",
+    "error_camera": "Kan nie kamera bereik nie. Maak asseblief seker dat kamera toestemmings toegestaan is.",
+    "error_invalid_qr": "Ongeldige QR-kode formaat. Verwagte formaat: XX000",
+    "error_exhibit_not_found": "Uitstalling Nie Gevind",
+    "error_exhibit_message": "Die uitstalling kode \"{code}\" kon nie gevind word nie.",
+    "error_contact": "Skandeer asseblief 'n ander kode of kontak museum personeel vir hulp.",
+    "error_language_not_available": "Taal Nie Beskikbaar",
+    "error_language_message": "Hierdie uitstalling is nie beskikbaar in die gekose taal nie.",
+    "loading": "Laai uitstalling inligting"
+  },
+  "xh": {
+    "scan_instruction": "Nceda uskene ikhowudi yomboniso",
+    "scan_status": "Beka ikhowudi yeQR ngaphakathi kumboniso wekhamera",
+    "scan_next": "SKENA IKHOWUDI ELANDELAYO",
+    "back": "Buyela",
+    "error_camera": "Ayikwazi ukufikelela kwikhamera. Nceda uqinisekise ukuba iimvume zekhamera zinikeziwe.",
+    "error_invalid_qr": "Ifomathi yekhowudi yeQR engeyiyo. Ifomathi elindelweyo: XX000",
+    "error_exhibit_not_found": "Umboniso Awufumaneki",
+    "error_exhibit_message": "Ikhowudi yomboniso \"{code}\" ayifumaneki.",
+    "error_contact": "Nceda uskene enye ikhowudi okanye uqhagamshelane nabasebenzi bemyuziyam ukuze bafumane uncedo.",
+    "error_language_not_available": "Ulwimi Alufumaneki",
+    "error_language_message": "Lo mboniso awufumaneki ngolwimi olukhethiweyo.",
+    "loading": "Ilayisha ulwazi lomboniso"
+  },
+  "ja": {
+    "scan_instruction": "展示コードをスキャンしてください",
+    "scan_status": "カメラビュー内にQRコードを配置してください",
+    "scan_next": "次のコードをスキャン",
+    "back": "戻る",
+    "error_camera": "カメラにアクセスできません。カメラの許可が付与されていることを確認してください。",
+    "error_invalid_qr": "無効なQRコード形式。期待される形式：XX000",
+    "error_exhibit_not_found": "展示が見つかりません",
+    "error_exhibit_message": "展示コード「{code}」が見つかりませんでした。",
+    "error_contact": "別のコードをスキャンするか、博物館スタッフにお問い合わせください。",
+    "error_language_not_available": "言語が利用できません",
+    "error_language_message": "この展示は選択された言語では利用できません。",
+    "loading": "展示情報を読み込んでいます"
+  }
+}

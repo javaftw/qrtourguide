@@ -1,0 +1,179 @@
+{
+  "exhibit_id": "CD002",
+  "images": [
+    {
+      "url": "https://via.placeholder.com/800x600/8B4513/ffffff?text=Khoi+Pottery",
+      "position": 0
+    },
+    {
+      "url": "https://via.placeholder.com/800x400/CD853F/ffffff?text=Pattern+Details",
+      "position": 3
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Traditional Khoi Pottery Collection",
+      "sections": [
+        {
+          "type": "text",
+          "content": "This remarkable collection of pottery represents the sophisticated ceramic traditions of the Khoi people who inhabited the Western Cape for thousands of years before European colonization. These vessels were created using traditional coiling techniques and fired in open pits."
+        },
+        {
+          "type": "text",
+          "content": "Each piece in this collection tells a story of daily life, cultural practices, and the intimate relationship between the Khoi people and their natural environment. The clay used was sourced from local riverbeds, and the distinctive patterns were created using natural pigments."
+        },
+        {
+          "type": "heading",
+          "content": "Cultural Context"
+        },
+        {
+          "type": "text",
+          "content": "Pottery played a vital role in Khoi society, serving both practical and ceremonial purposes. These vessels were used for storing water, preparing food, and in important cultural rituals. The shapes and decorative patterns often had symbolic meanings related to spiritual beliefs and social structures."
+        },
+        {
+          "type": "text",
+          "content": "The geometric patterns visible on these pieces demonstrate the artistic sophistication of Khoi craftspeople. Similar patterns have been found in rock art throughout the region, suggesting a continuity of artistic tradition spanning millennia."
+        },
+        {
+          "type": "heading",
+          "content": "Archaeological Significance"
+        },
+        {
+          "type": "text",
+          "content": "These artifacts were excavated from various sites around Stellenbosch and have been dated to between 800 and 2000 years ago. They provide crucial evidence about the technological capabilities, trade networks, and cultural practices of pre-colonial Southern African societies."
+        },
+        {
+          "type": "text",
+          "content": "Recent analysis of residues found in some vessels has revealed information about the diet and food preparation methods of the Khoi people, adding to our understanding of their daily lives and ecological knowledge."
+        }
+      ],
+      "image_alts": [
+        "Collection of traditional Khoi pottery vessels showing various sizes and decorative patterns",
+        "Close-up view of geometric patterns on Khoi pottery created with natural pigments"
+      ]
+    },
+    "af": {
+      "title": "Tradisionele Khoi Pottebakkers Versameling",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Hierdie merkwaardige versameling pottebakkersware verteenwoordig die gesofistikeerde keramiek tradisies van die Khoi mense wat die Wes-Kaap vir duisende jare voor Europese kolonisasie bewoon het. Hierdie houers is geskep deur tradisionele oprol-tegnieke te gebruik en is in oop putte gebrand."
+        },
+        {
+          "type": "text",
+          "content": "Elke stuk in hierdie versameling vertel 'n storie van die daaglikse lewe, kulturele praktyke, en die intieme verhouding tussen die Khoi mense en hul natuurlike omgewing. Die klei wat gebruik is, is van plaaslike rivierbeddings verkry, en die kenmerkende patrone is met natuurlike pigmente geskep."
+        },
+        {
+          "type": "heading",
+          "content": "Kulturele Konteks"
+        },
+        {
+          "type": "text",
+          "content": "Pottebakkery het 'n belangrike rol in die Khoi samelewing gespeel, en beide praktiese en seremoniële doeleindes gedien. Hierdie houers is gebruik om water te stoor, kos voor te berei, en in belangrike kulturele rituele. Die vorms en dekoratiewe patrone het dikwels simboliese betekenisse gehad wat verband hou met geestelike oortuigings en sosiale strukture."
+        },
+        {
+          "type": "text",
+          "content": "Die geometriese patrone wat op hierdie stukke sigbaar is, toon die artistieke sofistikasie van Khoi ambagsmense. Soortgelyke patrone is in rotskuns regdeur die streek gevind, wat dui op 'n kontinuïteit van artistieke tradisie wat millennia oorspan."
+        },
+        {
+          "type": "heading",
+          "content": "Argeologiese Belangrikheid"
+        },
+        {
+          "type": "text",
+          "content": "Hierdie artefakte is van verskillende terreine rondom Stellenbosch opgegrawe en is gedateer tussen 800 en 2000 jaar gelede. Hulle verskaf belangrike bewyse oor die tegnologiese vermoëns, handelsnetwerke, en kulturele praktyke van pre-koloniale Suider-Afrikaanse samelewings."
+        },
+        {
+          "type": "text",
+          "content": "Onlangse analise van residue wat in sommige houers gevind is, het inligting oor die dieet en voedselvoorbereiding metodes van die Khoi mense onthul, wat bydra tot ons begrip van hul daaglikse lewens en ekologiese kennis."
+        }
+      ],
+      "image_alts": [
+        "Versameling van tradisionele Khoi pottebakkersware wat verskillende groottes en dekoratiewe patrone toon",
+        "Nadere aansig van geometriese patrone op Khoi pottebakkersware geskep met natuurlike pigmente"
+      ]
+    },
+    "xh": {
+      "title": "Ingqokelela Yezitya ZesiKhoi",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Le nqokelela ibaluleke kakhulu yezitya imele izithethe eziphucukileyo zokwenza izitya zabantu abangamaKhoi ababehlala eNtshona Koloni iminyaka ewaka-waka ngaphambi kokufika kobukoloniyali baseYurophu. Ezi zitya zenziwe ngokusebenzisa iindlela zemveli zokusonga udongwe kwaye zatshiswa kwiimbiza ezivulekileyo."
+        },
+        {
+          "type": "text",
+          "content": "Isitya ngasinye kule nqokelela sixelela ibali lobomi bemihla ngemihla, izithethe zenkcubeko, kunye nobudlelwane obusondeleyo phakathi kwabantu abangamaKhoi nendalo yabo. Udongwe olusetyenzisiweyo lwafunyanwa kwimilambo yalapha, yaye iipateni eziphawulekayo zenziwe kusetyenziswa imibala yendalo."
+        },
+        {
+          "type": "heading",
+          "content": "Imeko Yenkcubeko"
+        },
+        {
+          "type": "text",
+          "content": "Izitya zadlala indima ebalulekileyo kuluntu lwamaKhoi, zisebenza ngeenjongo zobugcisa kunye nezimsitho. Ezi zitya zazisetyenziselwa ukugcina amanzi, ukulungiselela ukutya, nakumasiko abalulekileyo enkcubeko. Iimilo neepateni zokuhombisa zazidla ngokuba neentsingiselo ezinomfuziselo ezinxulumene neenkolelo zokomoya kunye nezakhiwo zentlalo."
+        },
+        {
+          "type": "text",
+          "content": "Iipateni zejiyometri ezibonakala kwezi zinto zibonisa ubuchule bobugcisa bamagcisa amaKhoi. Iipateni ezifanayo zifunyenwe kubugcisa bamadonga kulo lonke ummandla, ziphakamisa ukuqhubeka kwesithethe sobugcisa esingamawaka eminyaka."
+        },
+        {
+          "type": "heading",
+          "content": "Ukubaluleka KweZinto Zakudala"
+        },
+        {
+          "type": "text",
+          "content": "Ezi zinto zamandulo zembiwa kwiindawo ezahlukeneyo ezijikeleze iStellenbosch yaye ziye zaxelwa iminyaka ephakathi kwama-800 nama-2000 eyadlulayo. Zinika ubungqina obubalulekileyo malunga namandla obuchwepheshe, uthungelwano lwezorhwebo, kunye nezithethe zenkcubeko yoluntu lwaseMzantsi Afrika lwangaphambi kobukoloniyali."
+        },
+        {
+          "type": "text",
+          "content": "Uhlalutyo lwamva nje lweentsalela ezifunyenwe kwezinye izitya luveze ulwazi malunga nokutya kunye neendlela zokulungiselela ukutya kwabantu abangamaKhoi, ludibanisa ekuqondeni kwethu ubomi babo bemihla ngemihla kunye nolwazi lwendalo."
+        }
+      ],
+      "image_alts": [
+        "Ingqokelela yezitya zesiKhoi ezibonisa ubungakanani obwahlukeneyo kunye neepateni zokuhombisa",
+        "Imbonakalo esondeleyo yeepateni zejiyometri kwizitya zamaKhoi ezenziwe ngemibala yendalo"
+      ]
+    },
+    "ja": {
+      "title": "伝統的なコイ族の陶器コレクション",
+      "sections": [
+        {
+          "type": "text",
+          "content": "この注目すべき陶器のコレクションは、ヨーロッパの植民地化以前に何千年もの間西ケープに住んでいたコイ族の洗練された陶器の伝統を表しています。これらの器は伝統的なコイリング技法を使用して作られ、野外の穴で焼成されました。"
+        },
+        {
+          "type": "text",
+          "content": "このコレクションの各作品は、日常生活、文化的慣習、そしてコイ族と自然環境との親密な関係の物語を語っています。使用された粘土は地元の川床から調達され、独特の模様は天然の顔料を使用して作られました。"
+        },
+        {
+          "type": "heading",
+          "content": "文化的背景"
+        },
+        {
+          "type": "text",
+          "content": "陶器はコイ族社会において重要な役割を果たし、実用的な目的と儀式的な目的の両方に使用されました。これらの器は、水の貯蔵、食事の準備、重要な文化的儀式に使用されました。形状や装飾模様は、しばしば精神的信念や社会構造に関連する象徴的な意味を持っていました。"
+        },
+        {
+          "type": "text",
+          "content": "これらの作品に見られる幾何学的な模様は、コイ族の職人の芸術的洗練を示しています。同様の模様は地域全体の岩絵に見られ、何千年にもわたる芸術的伝統の連続性を示唆しています。"
+        },
+        {
+          "type": "heading",
+          "content": "考古学的重要性"
+        },
+        {
+          "type": "text",
+          "content": "これらの遺物はステレンボッシュ周辺のさまざまな場所から発掘され、800年から2000年前のものと年代測定されています。これらは、植民地化以前の南部アフリカ社会の技術的能力、交易ネットワーク、文化的慣習についての重要な証拠を提供しています。"
+        },
+        {
+          "type": "text",
+          "content": "最近、一部の器で見つかった残留物の分析により、コイ族の食事と食事準備方法に関する情報が明らかになり、彼らの日常生活と生態学的知識についての理解が深まりました。"
+        }
+      ],
+      "image_alts": [
+        "さまざまなサイズと装飾模様を示す伝統的なコイ族の陶器のコレクション",
+        "天然顔料で作られたコイ族の陶器の幾何学的模様のクローズアップビュー"
+      ]
+    }
+  }
+}
