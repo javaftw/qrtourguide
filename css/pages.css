@@ -11,6 +11,8 @@ body {
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    /* Add padding for safe areas on devices with notches/home indicators */
+    padding-bottom: env(safe-area-inset-bottom);
 }
 
 /* Scanning Mode Styles */
@@ -72,6 +74,9 @@ body {
     padding: 20px;
     background: white;
     -webkit-overflow-scrolling: touch;
+    /* Add padding at bottom to prevent content from hiding behind button */
+    /* Button height (1.2rem padding * 2 + 1.2rem font + 8px border-radius) + bottom-bar padding (15px * 2) + safe area + extra spacing */
+    padding-bottom: calc(90px + env(safe-area-inset-bottom, 0px));
 }
 
 .content-area h2 {
@@ -104,9 +109,11 @@ body {
 
 .bottom-bar {
     background: #667eea;
-    padding: 15px 20px;
+    /* Adjust padding to account for safe area and keep button visible */
+    padding: 15px 20px calc(15px + env(safe-area-inset-bottom, 0px)) 20px;
     box-shadow: 0 -4px 12px rgba(0,0,0,0.1);
     flex-shrink: 0;
+    position: relative;
 }
 
 .scan-next-btn {
@@ -195,6 +202,7 @@ body {
 
     .content-area {
         padding: 15px;
+        padding-bottom: calc(80px + env(safe-area-inset-bottom, 0px));
     }
 
     .content-area h2 {
@@ -215,5 +223,9 @@ body {
     .scan-next-btn {
         font-size: 1rem;
         padding: 1rem;
+    }
+
+    .content-area {
+        padding-bottom: calc(80px + env(safe-area-inset-bottom, 0px));
     }
 }
