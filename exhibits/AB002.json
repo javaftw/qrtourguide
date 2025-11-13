@@ -1,0 +1,83 @@
+{
+  "exhibit_id": "AB002",
+  "images": [
+    {
+      "url": "img/AB002-1.png",
+      "position": 0
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Calisher & Terry Half-cocking rifle",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Single barrel percussion cap breechloader with bolt action lock. This weapon is loaded at the lock with a paperbound round wherein the gunpowder and lead bullet were encased. It is ignited by means of a conventional muzzleloader percussion cap. The breachloader is one of the first used by the British army."
+        },
+        {
+          "type": "heading",
+          "content": "Calibre"
+        },
+        {
+          "type": "text",
+          "content": ".45"
+        },
+        {
+          "type": "heading",
+          "content": "Date"
+        },
+        {
+          "type": "text",
+          "content": "ca. 1860"
+        },
+        {
+          "type": "heading",
+          "content": "Notes"
+        },
+        {
+          "type": "text",
+          "content": "Donated by Mr. F. Cloete"
+        }
+      ],
+      "image_alts": [
+        "Calisher & Terry Half-cocking rifle"
+      ]
+    },
+    "af": {
+      "title": "Calisher & Terry Halflaaikoeëlgeweer",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Enkelloop slagdoppie agterlaaigeweer met grendel-aksie sluitstuk. Hierdie wapen word by die sluitstuk gelaai met 'n papier-omhulde patroon waarin die kruit en loodkoeël toegedraai was. Dit word ontvlam deur middel van 'n konvensionele voorlaai-slagdoppie. Die agterlaaigeweer is een van die eerste wat deur die Britse leër gebruik is."
+        },
+        {
+          "type": "heading",
+          "content": "Kaliber"
+        },
+        {
+          "type": "text",
+          "content": ".45"
+        },
+        {
+          "type": "heading",
+          "content": "Datum"
+        },
+        {
+          "type": "text",
+          "content": "ca. 1860"
+        },
+        {
+          "type": "heading",
+          "content": "Notas"
+        },
+        {
+          "type": "text",
+          "content": "Geskenk deur mnr. F. Cloete"
+        }
+      ],
+      "image_alts": [
+        "Calisher & Terry Halflaaikoeëlgeweer"
+      ]
+    }
+  }
+}

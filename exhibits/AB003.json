@@ -1,18 +1,18 @@
 {
-  "exhibit_id": "AB001",
+  "exhibit_id": "AB003",
   "images": [
     {
-      "url": "img/AB001-1.png",
+      "url": "img/AB003-1.png",
       "position": 0
     }
   ],
   "languages": {
     "en": {
-      "title": "Martini Henry Half-cocking rifle",
+      "title": "Snider half-cocking rifle",
       "sections": [
         {
           "type": "text",
-          "content": "Single barrel breachloader. A popular hunting rifle as well as military rifle."
+          "content": "Single barrel. This weapon's original design was the work of Jacob Snider of New York. The British Government accepted the design to the ends of transforming their Enfield muzzleloaders into breechloaders. The military counterpart to this gun was Britain's first rifle which in 1869 fired metal rounds."
         },
         {
           "type": "heading",
@@ -20,7 +20,7 @@
         },
         {
           "type": "text",
-          "content": ".450/.577"
+          "content": ".577"
         },
         {
           "type": "heading",
@@ -28,7 +28,7 @@
         },
         {
           "type": "text",
-          "content": "I. Hollis & Sons, London"
+          "content": "Jas Kerr & Co., London"
         },
         {
           "type": "heading",
@@ -36,7 +36,7 @@
         },
         {
           "type": "text",
-          "content": "ca. 1880"
+          "content": "ca. 1871"
         },
         {
           "type": "heading",
@@ -44,19 +44,19 @@
         },
         {
           "type": "text",
-          "content": "Donated by miss D. A. L. de Kock"
+          "content": "Donated by Mr. F. Cloete"
         }
       ],
       "image_alts": [
-        "Half-cocking rifle"
+        "Snider half-cocking rifle"
       ]
     },
     "af": {
-      "title": "Martini Henry Halflaaikoeëlgeweer",
+      "title": "Snider Halflaaikoeëlgeweer",
       "sections": [
         {
           "type": "text",
-          "content": "Enkelloop voorlaaier. 'n Gewilde jaggeweer sowel as militêre geweer."
+          "content": "Enkelloop. Hierdie wapen se oorspronklike ontwerp was die werk van Jacob Snider van New York. Die Britse Regering het die ontwerp aanvaar met die doel om hul Enfield voorlaaigewere in agterlaaigewere te omskep. Die militêre eweknie van hierdie geweer was Brittanje se eerste geweer wat in 1869 metaalpatrone afgeskiet het."
         },
         {
           "type": "heading",
@@ -64,7 +64,7 @@
         },
         {
           "type": "text",
-          "content": ".450/.577"
+          "content": ".577"
         },
         {
           "type": "heading",
@@ -72,7 +72,7 @@
         },
         {
           "type": "text",
-          "content": "I. Hollis & Sons, Londen"
+          "content": "Jas Kerr & Co., Londen"
         },
         {
           "type": "heading",
@@ -80,7 +80,7 @@
         },
         {
           "type": "text",
-          "content": "ca. 1880"
+          "content": "ca. 1871"
         },
         {
           "type": "heading",
@@ -88,11 +88,11 @@
         },
         {
           "type": "text",
-          "content": "Geskenk deur mej. D. A. L. de Kock"
+          "content": "Geskenk deur mnr. F. Cloete"
         }
       ],
       "image_alts": [
-        "Martini Henry Halflaaikoeëlgeweer"
+        "Snider Halflaaikoeëlgeweer"
       ]
     }
   }

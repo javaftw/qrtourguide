@@ -1,0 +1,99 @@
+{
+  "exhibit_id": "AB004",
+  "images": [
+    {
+      "url": "img/AB004-1.png",
+      "position": 0
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Westley Richards half-cocking rifle",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Single barrel percussion cap breechloader with Whitworth tracks. Originally designed as a military cavalry weapon with the purpose of replacing the Calisher & Terry. The golden calibre rings along the barrel were included for measuring trophies, for e.g. animal horns. This gun is speculated to have belonged to president Brand of the O.F.S.."
+        },
+        {
+          "type": "heading",
+          "content": "Calibre"
+        },
+        {
+          "type": "text",
+          "content": ".450"
+        },
+        {
+          "type": "heading",
+          "content": "Manufacturer"
+        },
+        {
+          "type": "text",
+          "content": "Westley Richards & Co., London"
+        },
+        {
+          "type": "heading",
+          "content": "Date"
+        },
+        {
+          "type": "text",
+          "content": "ca. 1876"
+        },
+        {
+          "type": "heading",
+          "content": "Notes"
+        },
+        {
+          "type": "text",
+          "content": "Purchased with funds donated by visitors to the museum"
+        }
+      ],
+      "image_alts": [
+        "Snider half-cocking rifle"
+      ]
+    },
+    "af": {
+      "title": "Westley Richards Halflaaikoeëlgeweer",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Enkelloop slagdoppie agterlaaigeweer met Whitworth spore. Oorspronklik ontwerp as 'n militêre kavallerie-wapen met die doel om die Calisher & Terry te vervang. Die goue kaliberringe langs die loop is ingesluit vir die meet van trofees, bv. dierehoring. Daar word vermoed dat hierdie geweer aan president Brand van die O.V.S. behoort het."
+        },
+        {
+          "type": "heading",
+          "content": "Kaliber"
+        },
+        {
+          "type": "text",
+          "content": ".450"
+        },
+        {
+          "type": "heading",
+          "content": "Vervaardiger"
+        },
+        {
+          "type": "text",
+          "content": "Westley Richards & Co., Londen"
+        },
+        {
+          "type": "heading",
+          "content": "Datum"
+        },
+        {
+          "type": "text",
+          "content": "ca. 1876"
+        },
+        {
+          "type": "heading",
+          "content": "Notas"
+        },
+        {
+          "type": "text",
+          "content": "Aangekoop met fondse geskenk deur besoekers aan die museum"
+        }
+      ],
+      "image_alts": [
+        "Westley Richards Halflaaikoeëlgeweer"
+      ]
+    }
+  }
+}
