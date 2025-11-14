@@ -113,6 +113,52 @@ body {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
+/* Audio player button */
+.audio-container {
+    text-align: center;
+    margin: 2rem 0;
+    padding: 1.5rem 0;
+}
+
+.audio-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    display: inline-block;
+}
+
+.audio-btn img {
+    width: 80px;
+    height: 80px;
+    margin: 0;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.audio-btn:hover {
+    opacity: 0.8;
+}
+
+.audio-btn:active {
+    transform: scale(0.95);
+}
+
+.audio-btn.playing {
+    animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+
 .bottom-bar {
     background: #667eea;
     /* Fixed generous padding to keep button above mobile browser UI */

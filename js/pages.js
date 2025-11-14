@@ -2,6 +2,8 @@ let html5QrcodeScanner;
 let isScanning = false;
 let currentLanguage = null;
 let uiStrings = null;
+let currentAudio = null; // Track current audio element
+let isPlaying = false; // Track audio playback state
 
 // Load UI strings from JSON
 async function loadUIStrings() {
@@ -137,6 +139,53 @@ function stopScanner() {
     }
 }
 
+// Stop any currently playing audio
+function stopAudio() {
+    if (currentAudio) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+        currentAudio = null;
+        isPlaying = false;
+
+        // Remove playing class from button
+        const audioBtn = document.querySelector('.audio-btn');
+        if (audioBtn) {
+            audioBtn.classList.remove('playing');
+        }
+    }
+}
+
+// Toggle audio playback
+function toggleAudio(audioPath) {
+    const audioBtn = document.querySelector('.audio-btn');
+
+    // If already playing this audio, pause it
+    if (isPlaying && currentAudio && currentAudio.src.includes(audioPath)) {
+        currentAudio.pause();
+        isPlaying = false;
+        audioBtn.classList.remove('playing');
+        return;
+    }
+
+    // Stop any currently playing audio
+    stopAudio();
+
+    // Create and play new audio
+    currentAudio = new Audio(audioPath);
+    currentAudio.play().catch(err => {
+        console.error('Error playing audio:', err);
+    });
+
+    isPlaying = true;
+    audioBtn.classList.add('playing');
+
+    // Handle audio end
+    currentAudio.addEventListener('ended', () => {
+        isPlaying = false;
+        audioBtn.classList.remove('playing');
+    });
+}
+
 // Load exhibit content from JSON
 function loadExhibit(exhibitCode) {
     const fileName = `exhibits/${exhibitCode}.json`;
@@ -216,12 +265,33 @@ function renderExhibit(data) {
         }
     });
 
+    // Add audio player if audio file is available
+    if (languageData.audio) {
+        html += `
+            <div class="audio-container">
+                <button class="audio-btn" id="audioBtn" aria-label="Play audio description">
+                    <img src="svg/audio.svg" alt="Play audio">
+                </button>
+            </div>
+        `;
+    }
+
     // Insert the rendered content
     document.getElementById('contentArea').innerHTML = html;
+
+    // Add audio button event listener if audio exists
+    if (languageData.audio) {
+        document.getElementById('audioBtn').addEventListener('click', () => {
+            toggleAudio(languageData.audio);
+        });
+    }
 }
 
 // Switch back to scanning mode
 function switchToScanMode() {
+    // Stop any playing audio
+    stopAudio();
+
     document.getElementById('displayMode').classList.add('hidden');
     document.getElementById('scanningMode').classList.remove('hidden');
 
@@ -254,4 +324,5 @@ window.addEventListener('load', async () => {
 // Clean up on page unload
 window.addEventListener('beforeunload', () => {
     stopScanner();
+    stopAudio();
 });

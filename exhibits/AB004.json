@@ -9,6 +9,7 @@
   "languages": {
     "en": {
       "title": "Westley Richards half-cocking rifle",
+      "audio": "audio/en/AB004.mp3",
       "sections": [
         {
           "type": "text",
@@ -53,6 +54,7 @@
     },
     "af": {
       "title": "Westley Richards Halflaaikoeëlgeweer",
+      "audio": "audio/af/AB004.mp3",
       "sections": [
         {
           "type": "text",

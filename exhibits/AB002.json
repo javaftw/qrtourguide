@@ -9,6 +9,7 @@
   "languages": {
     "en": {
       "title": "Calisher & Terry Half-cocking rifle",
+      "audio": "audio/en/AB002.mp3",
       "sections": [
         {
           "type": "text",
@@ -45,6 +46,7 @@
     },
     "af": {
       "title": "Calisher & Terry Halflaaikoeëlgeweer",
+      "audio": "audio/af/AB002.mp3",
       "sections": [
         {
           "type": "text",

@@ -9,6 +9,7 @@
   "languages": {
     "en": {
       "title": "Martini Henry Half-cocking rifle",
+      "audio": "audio/en/AB001.mp3",
       "sections": [
         {
           "type": "text",
@@ -53,6 +54,7 @@
     },
     "af": {
       "title": "Martini Henry Halflaaikoeëlgeweer",
+      "audio": "audio/af/AB001.mp3",
       "sections": [
         {
           "type": "text",
